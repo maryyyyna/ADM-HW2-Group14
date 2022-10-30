@@ -12,6 +12,9 @@ The goals of the Homework are:
 * be familiar with the command line;
 * be familiar with algorithms and the determination of asymptotic algorithms running time.
 
+## Dataset
+https://www.kaggle.com/datasets/shmalex/instagram-dataset?select=instagram_profiles.csv
+
 ## Files description
 In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.sh`, the result of our efforts.
 
