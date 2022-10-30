@@ -29,7 +29,7 @@ Marina was the only component of the group with an important python programming 
 * Datetime.
 
 ## Work split
-## Requests have been divided as follows: 
+### Requests have been divided as follows: 
 RQ1-RQ2-RQ7-RQ8: Claudiu; 
 RQ4-RQ5: Jia;
 RQ3-RQ6: Marina;
