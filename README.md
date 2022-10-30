@@ -1,6 +1,6 @@
 # ADM-HW2-Group14
 
-## Members of group
+## Group Members
 * Marina Iuliana Aur 1809715
 * Claudiu Gabriel Gheorghiu 1845227
 * Chengjuan Jia 2046618
