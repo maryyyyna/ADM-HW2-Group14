@@ -15,4 +15,10 @@ Marina was the only component of the group with an important python programming 
 
 Libraries used: pandas, matplotlib.pyplot, numpy, datetime.
 
-Requests have been divided as follows: RQ1-RQ2-RQ7-RQ8 Claudiu; RQ4-RQ5 Jia;  RQ3-RQ6 Marina; command line Jia; Bonus A Jia,Claudiu,Marina; Bonus B/C Marina; Algorithm Marina.
+Requests have been divided as follows: 
+RQ1-RQ2-RQ7-RQ8 Claudiu; 
+RQ4-RQ5 Jia;
+RQ3-RQ6 Marina;
+command line Jia;
+Bonus A Jia,Claudiu,Marina; 
+Bonus B/C Marina; Algorithm Marina.
