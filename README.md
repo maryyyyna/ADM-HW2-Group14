@@ -11,7 +11,7 @@ In the repository "ADM-HW2-Group14" you'll find "mainDef.ipynb" and "CommandLine
 We worked principally independently due to the fact we don't live all in Rome and for private commitments: work, study. We communicated mainly through Whatsapp-messenger and just in the last days two long meet calls.
 
 We had difficulties given by the dimensions of the dataset, even in AWS, but we found a solution selecting columns of interest according the questions.
-Marina was the only component of the group with a strong programming background, Claudiu from Statistics and Jia Economy. Everyone gave his/her best, improving skills, starting from different bases.
+Marina was the only component of the group with an important python programming background, Claudiu from Statistics and Jia Economy. Everyone gave his/her best, improving skills, starting from different bases.
 
 Libraries used: pandas, matplotlib.pyplot, numpy, datetime.
 
