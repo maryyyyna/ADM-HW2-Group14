@@ -8,7 +8,7 @@
 ## HW GOALS
 The goals of the Homework are:
 
-* to learn how to work on large data, using the main python packages for data manipulation and making considerations on the results obtained;
+* learn how to work on large data, using the main python packages for data manipulation and making considerations on the results obtained;
 * be familiar with the command line;
 * be familiar with algorithms and the determination of asymptotic algorithms running time.
 
