@@ -10,12 +10,14 @@ In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.s
 
 ### 1. `main.ipynb`
 
-#### A Jupyter notebook that contains all our answers and scripts relative to the theoretical questions (from RQ1 to AQ1).
+#### A Jupyter notebook that contains all our answers and scripts relative to the theoretical questions (from RQ1 to AQ1). 
 
 ### 2. `CommandLine.sh`
 
 #### A bash shell script file contains the prepared script to answer to the command line question.
 
+## Work description
+The goal of the Homework is to learn how to work on large dataframe, using the main libraries for data manipulation and making considerations on the results obtained.
 
 ## Principal packages used
 * Pandas;
