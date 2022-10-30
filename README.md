@@ -6,7 +6,11 @@
 * Jia 
 
 ## Work description
-The goal of the Homework was to learn how to work on large data, using the main python packages for data manipulation and making considerations on the results obtained.
+The goal of the Homework was:
+
+* to learn how to work on large data, using the main python packages for data manipulation and making considerations on the results obtained;
+* be familiar with the command line;
+* be familiar with algorithms and the determination of asymptotic algorithms running time.
 
 ## Files description
 In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.sh`, the result of our efforts.
