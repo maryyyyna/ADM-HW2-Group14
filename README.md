@@ -5,7 +5,7 @@
 * Claudiu Gabriel Gheorghiu 1845227
 * Chengjuan Jia 2046618
 
-## File description
+## Files description
 In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.sh`, the result of our efforts.
 
 ### 1. `main.ipynb`
