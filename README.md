@@ -5,6 +5,9 @@
 * Claudiu 
 * Jia 
 
+## Work description
+The goal of the Homework was to learn how to work on large data, using the main python packages for data manipulation and making considerations on the results obtained.
+
 ## Files description
 In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.sh`, the result of our efforts.
 
@@ -15,9 +18,6 @@ In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.s
 ### 2. `CommandLine.sh`
 
 #### A bash shell script file contains the prepared script to answer to the command line question.
-
-## Work description
-The goal of the Homework is to learn how to work on large data, using the main python packages for data manipulation and making considerations on the results obtained.
 
 ## Principal packages used
 * Pandas;
