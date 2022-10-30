@@ -30,10 +30,10 @@ Marina was the only component of the group with an important python programming 
 
 ## Work split
 ### Requests have been divided as follows: 
-RQ1-RQ2-RQ7-RQ8: Claudiu; 
-RQ4-RQ5: Jia;
-RQ3-RQ6: Marina;
-Command line: Jia;
-Bonus A: Jia,Claudiu,Marina; 
-Bonus B/C: Marina; 
-AQ1: Marina.
+* RQ1-RQ2-RQ7-RQ8: Claudiu; 
+* RQ4-RQ5: Jia;
+* RQ3-RQ6: Marina;
+* Command line: Jia;
+* Bonus A: Jia,Claudiu,Marina; 
+* Bonus B/C: Marina; 
+* AQ1: Marina.
