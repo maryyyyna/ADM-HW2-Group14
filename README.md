@@ -5,8 +5,8 @@
 * Claudiu 
 * Jia 
 
-## Work description
-The goal of the Homework was:
+## HW GOALS
+The goals of the Homework are:
 
 * to learn how to work on large data, using the main python packages for data manipulation and making considerations on the results obtained;
 * be familiar with the command line;
