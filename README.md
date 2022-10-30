@@ -32,3 +32,6 @@ In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.s
 * Bonus A: Jia,Claudiu,Marina; 
 * Bonus B/C: Marina; 
 * AQ1: Marina.
+
+## Additional Link
+https://nbviewer.org/github/maryyyyna/ADM-HW2-Group14/tree/main/
