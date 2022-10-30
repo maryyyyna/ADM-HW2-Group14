@@ -6,7 +6,7 @@ Claudiu Gabriel Gheorghiu 1845227
 
 Chengjuan Jia 2046618
 
-In the repository "ADM-HW2-Group14" you'll find "mainDef.ipynb" and "CommandLine.sh", the result of our efforts.
+In the repository "ADM-HW2-Group14" you'll find "main.ipynb" and "CommandLine.sh", the result of our efforts.
 
 We worked principally independently due to the fact we don't live all in Rome and for private commitments: work, study. We communicated mainly through Whatsapp-messenger and just in the last days two long meet calls.
 
