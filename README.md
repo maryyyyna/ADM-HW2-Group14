@@ -16,11 +16,6 @@ In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.s
 
 #### A bash shell script file contains the prepared script to answer to the command line question.
 
-## Work flow
-We worked principally independently due to the fact we don't live all in Rome and for private commitments (work, study,..). We communicated mainly through Whatsapp-messenger and just in the last days two long meet calls.
-
-We had difficulties given by the dimensions of the dataset, even in AWS, but we found a solution selecting columns of interest according the questions.
-Marina was the only component of the group with an important python programming background, Claudiu from Statistics and Jia Economy. Everyone gave his/her best, improving skills, starting from different bases.
 
 ## Principal packages used
 * Pandas;
