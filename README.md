@@ -17,7 +17,7 @@ In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.s
 #### A bash shell script file contains the prepared script to answer to the command line question.
 
 ## Work description
-The goal of the Homework is to learn how to work on large dataframe, using the main libraries for data manipulation and making considerations on the results obtained.
+The goal of the Homework is to learn how to work on large data, using the main python packages for data manipulation and making considerations on the results obtained.
 
 ## Principal packages used
 * Pandas;
