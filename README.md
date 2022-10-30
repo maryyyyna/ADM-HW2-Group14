@@ -3,7 +3,7 @@
 ## Group Members
 * Marina
 * Claudiu 
-* Chengjuan 
+* Jia 
 
 ## Files description
 In the repository  "ADM-HW2-Group14" you'll find `main.ipynb` and `CommandLine.sh`, the result of our efforts.
